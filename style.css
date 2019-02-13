@@ -715,17 +715,20 @@ li {
 
 .editors-pick-info .places-total-destinations > a:last-child {
     text-transform: capitalize;
+    display: inline-block;
     font-weight: 400;
     background-color: #2a2a2a;
 }
 
 .editors-pick-info .add-more > a {
+    display: inline-block;
     background-color: #30c0a3;
     padding: 0 30px;
     font-size: 24px;
 }
 
 .single-editors-pick-area {
+    display: inline-block;
     position: relative;
     z-index: 1;
     margin-bottom: 20px;
