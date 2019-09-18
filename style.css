@@ -459,7 +459,7 @@ li {
 }
 
 .sticky .header_area {
-    background-color: rgba(14, 2, 35, 0.9);
+    background-color: rgba(0, 175, 170, 0.9);
     height: 80px;
     z-index: 9999;
     border-bottom: 1px solid transparent;
@@ -557,7 +557,7 @@ li {
     font-size: 12px;
     font-weight: 700;
     color: #fff;
-    background-color: rgba(144, 103, 238, 0.65);
+    background-color: rgba(137, 138, 141, 0.65);
     text-transform: uppercase;
     min-width: 100px;
     height: 44px;
@@ -648,7 +648,7 @@ li {
 }
 
 .single-catagory-area {
-    background-color: #7643ea;
+    background-color: #00AFAA;
     text-align: center;
     padding: 60px 15px;
     -webkit-transition-duration: 500ms;
@@ -705,7 +705,7 @@ li {
     height: 70px;
     display: inline-block;
     line-height: 70px;
-    background-color: #7643ea;
+    background-color: #00AFAA;
     padding: 0 50px;
     font-size: 14px;
     text-transform: uppercase;
