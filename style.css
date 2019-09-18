@@ -294,7 +294,7 @@ li {
 }
 
 .section-heading.dark span {
-    background-color: #7643ea;
+    background-color: #1A3D6D;
 }
 
 .section-heading.dark h4 {
@@ -459,7 +459,7 @@ li {
 }
 
 .sticky .header_area {
-    background-color: rgba(0, 175, 170, 0.9);
+    background-color: rgba(26, 61, 109, 0.9);
     height: 80px;
     z-index: 9999;
     border-bottom: 1px solid transparent;
@@ -684,7 +684,7 @@ li {
 }
 
 .about-content span {
-    color: #7643ea;
+    color: #1A3D6D;
 }
 
 .about-content p {
